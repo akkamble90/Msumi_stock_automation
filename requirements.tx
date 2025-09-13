@@ -1,3 +1,5 @@
+# Add your dependencies below
+requests
 yfinance
 pandas
 matplotlib
